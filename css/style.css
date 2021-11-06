@@ -6,15 +6,18 @@ html, body {
     font-size: 1.1em;
 }
 
-h1, h2, p{
+h1, h2, p, nav{
     padding: 40px 40px 0 40px;
 }
 
-/* li{
-    display: flex;
-    text-align: center;
-} */
+h1{
+	font-size: 2em;
+	font-weight: bold;
+}
 
+h2{
+    font-weight: bold;
+}
 
 .nav_links{
     display:flex;
