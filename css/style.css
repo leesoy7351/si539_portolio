@@ -197,7 +197,7 @@ footer {
 
 @media (min-width: 768px) {
 
-  p.index {
+  .index {
     padding: 0px 40px 0 40px;
 }
 
@@ -233,7 +233,7 @@ footer {
 
 @media (min-width: 1366px) {
 
-  p.index {
+  .index {
     padding: 0px 40px 0 40px;
 }
   .bookcovers { 
