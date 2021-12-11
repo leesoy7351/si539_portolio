@@ -196,6 +196,12 @@ footer {
 
 
 @media (min-width: 768px) {
+
+  p.index {
+    padding: 0px 40px 0 40px;
+}
+
+
   .bookcovers { 
   grid-template-columns: repeat(4, 1fr); }
   
@@ -226,6 +232,10 @@ footer {
 }
 
 @media (min-width: 1366px) {
+
+  p.index {
+    padding: 0px 40px 0 40px;
+}
   .bookcovers { 
   grid-template-columns: repeat(5, 1fr); }
   
